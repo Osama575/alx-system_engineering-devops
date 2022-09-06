@@ -1,2 +1,2 @@
 #!/bin/bash
-echo tttt
+echo $pwd
